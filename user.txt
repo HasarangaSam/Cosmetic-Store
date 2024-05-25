@@ -1,0 +1,11 @@
+Manager,hasaranga,12345
+Cashier,madushan,55555
+Cashier,john,john333
+Cashier,gimhan,44444
+Cashier,nimal,nimal123
+Cashier,gggg,111111
+Cashier,john,11111
+Cashier,saman,saman123
+Cashier,saman,saman123
+Cashier,saman,saman123
+Cashier,saman,saman123

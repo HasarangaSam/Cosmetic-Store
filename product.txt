@@ -1,0 +1,10 @@
+Shampoo,Dettol,300.00,Dry Hair,20
+Body Lotion,Rani,500.00,Oily Skin,25
+Body Lotion,Lux,800.00,All,10
+Face Wash,Fair&Lovely(Men),300.00,All,18
+Face Wash,Fair&Lovely,350.00,Oily Skin,30
+Shampoo,Lifebuoy,200.00,All,18
+Shampoo,Kohomba,400.00,All,12
+Body Lotion,Kohomba,200.00,Oily Skin,3
+Shampoo,Rani,590.00,Curly Hair,15
+Body Lotion,Dove,900.00,All,32
